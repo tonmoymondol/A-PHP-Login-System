@@ -1,0 +1,1 @@
+This is a highly secure PHP authentication login system. You can simply create an account here and your data will be saved in a server for next sign in.This conatins of sign up,sign in,sign out features.Used css and bootstarp for design and raw php to make the project.
