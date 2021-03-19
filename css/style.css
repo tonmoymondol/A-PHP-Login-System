@@ -1,0 +1,31 @@
+h1 {
+    /*font-size: 60px;*/
+}
+a:hover {
+    text-decoration: none;
+}
+.left-section, .right-section {
+    width: 50%;
+    height: 100vh;
+}
+
+.right-section-index {
+    background: url("../img/bg.jpg");
+}
+.right-section-signup {
+    background: url("../img/signup_bg.jpg");
+}
+.right-section-home {
+    background: url("../img/home bg.jpg");
+}
+.right-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.home-left-content {
+    width: 50%;
+}
+.margin-top-50 {
+    margin-top: 50px;
+}
